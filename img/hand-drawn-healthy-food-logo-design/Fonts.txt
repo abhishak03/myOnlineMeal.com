@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Truculenta
+Author: Omnibus-Type
+Url: https://fonts.google.com/specimen/Truculenta
+
+Font: Style Script
+Author: Robert Leuschke
+Url: https://fonts.google.com/specimen/Style+Script
